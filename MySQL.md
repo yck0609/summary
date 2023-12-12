@@ -278,9 +278,15 @@
 
 /etc/mysql
 
+## 默认数据库
 
+### information_schema
 
+### mysql
 
+### performance_schema
+
+### sys
 
 # 4 索引（Index）
 
