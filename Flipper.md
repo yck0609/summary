@@ -6,12 +6,12 @@
 
 ## 1.1 下载安装
 
-下载链接 ：[Download a Free Trial of Charles • Charles Web Debugging Proxy](https://www.charlesproxy.com/latest-release/download.do)
+下载链接 ：https://github.com/facebook/flipper#running-from-source
 
 ## 1.2 破解
 
-在线破解链接 ：[Charles破解工具](https://www.zzzmode.com/mytools/charles/)
+> 开源软件，无需破解
 
-破解教程 ：输入RegisterName，点击生成计算出注册码，打开Charles输入注册码
+# 2 配置
 
 # 2 使用

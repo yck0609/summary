@@ -6,12 +6,16 @@
 
 ## 1.1 下载安装
 
-下载链接 ：[Download a Free Trial of Charles • Charles Web Debugging Proxy](https://www.charlesproxy.com/latest-release/download.do)
+> 1. 下载链接 ：[Download a Free Trial of Charles • Charles Web Debugging Proxy](https://www.charlesproxy.com/latest-release/download.do)
+> 
+> 2. 下载流程  ：选择对应系统的版本即可下载
 
 ## 1.2 破解
 
-在线破解链接 ：[Charles破解工具](https://www.zzzmode.com/mytools/charles/)
+> 1. 在线破解链接 ：[Charles破解工具](https://www.zzzmode.com/mytools/charles/)
+> 
+> 2. 破解教程 ：输入RegisterName，点击生成注册码。打开Charles输入RegisterName以及注册码
 
-破解教程 ：输入RegisterName，点击生成计算出注册码，打开Charles输入注册码
+# 2 配置
 
 # 2 使用
