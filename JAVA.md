@@ -735,7 +735,7 @@ object instanceof class // object是要检查的对象，class是要检查的类
 
 6. int lastIndexOf(Object element) : 返回指定元素最后一次出现的索引
 
-7.  E remove(int index) : 移除并返回指定索引处的元素
+7. E remove(int index) : 移除并返回指定索引处的元素
 
 8. boolean remove(Object element) : 从列表中删除指定元素
 
@@ -3057,6 +3057,8 @@ deque.clear();
    StringBuilder sb = new StringBuilder("你好世界");
    sb.replace(1, 3, "abc"); // 字符串变为 "你abc界"
    ```
+
+## 11.14 Iterator
 
 # 12 问题
 
