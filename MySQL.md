@@ -1,3 +1,45 @@
+# 0 MySQL安装使用配置
+
+## 0.1 安装
+
+> - 下载地址 ：[Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+> 
+> - 下载版本 ：MSI **Installer**
+
+## 0.2 卸载
+
+[彻底卸载MySQL ](https://blog.csdn.net/weixin_56952690/article/details/129678685)
+
+## 0.3 报错
+
+### 0.3.1 Visual Studio 2019环境缺失
+
+> This application requires Visual Studio 2019 x64Redistributable, Please install the Redistributable thenrun this installer again
+
+> 解决方法 ：下载对应环境
+> 
+> 链接 ：[Latest supported Visual C++ Redistributable downloads ](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
+### 0.3.2 starting the server失败
+
+> 1. 出现starting the server失败后，不要动任何设置
+> 
+> 2. 右键我的电脑，点击 【管理】
+> 
+> 3. 点击服务和应用程序
+> 
+> 4. 点击 【服务】
+> 
+> 5. 找到MySQL80，右键点击 【】
+> 
+> 6. ​选择登录，选择 【本地系统账户】
+> 
+> 7. 改好以后，回到安装界面，继续安装
+
+## 0.4 配置
+
+### 0.4.1 环境变量配置
+
 # 1MySQL
 
 > `MySQL`是一种关系型数据库管理系统（`RDBMS`），广泛应用于各种应用程序和网站的数据存储和管理。MySQL由瑞典公司MySQL AB开发，被Sun Microsystems收购，最终由Oracle Corporation管理和维护
