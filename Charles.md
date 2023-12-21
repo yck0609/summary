@@ -2,11 +2,11 @@
 
 > Charles是一款网络代理工具，主要用于监控计算机与互联网之间的数据通信。它允许用户查看计算机与互联网之间通过HTTP和HTTPS发送的数据，提供了重发请求、修改请求和响应等功能，这使得它成为开发人员、测试人员和网络管理员常用的工具之一
 
-# 1 安装使用教程
+# 1 安装
 
 ## 1.1 下载安装
 
-> 1. 下载链接 ：[Download a Free Trial of Charles • Charles Web Debugging Proxy](https://www.charlesproxy.com/latest-release/download.do)
+> 1. 下载链接 ：[Download a Free Trial of Charles](https://www.charlesproxy.com/latest-release/download.do)
 > 
 > 2. 下载流程  ：选择对应系统的版本即可下载，安装使用默认配置
 
@@ -14,7 +14,7 @@
 
 > 1. 在线破解链接 ：[Charles破解工具](https://www.zzzmode.com/mytools/charles/)
 > 
-> 2. 破解教程 ：输入RegisterName，点击生成注册码。打开Charles输入RegisterName以及注册码
+> 2. 破解教程 ：输入自定义的【RegisterName】，点击生成注册码。打开Charles输入设置的【RegisterName】以及对应的注册码
 
 ## 1.3 可能的报错信息及解决方法
 
@@ -68,7 +68,7 @@
 
 ## 2.2 web配置（以firefox为例）
 
-[Charles 浏览器（火狐）抓包设置 - F_Ichigo - 博客园](https://www.cnblogs.com/f-ichigo/p/13402985.html)
+[Charles （火狐）抓包设置](https://www.cnblogs.com/f-ichigo/p/13402985.html)
 
 ### 2.2.1 设置使用系统代理
 
@@ -118,7 +118,7 @@
 > 
 > 2. 打开 【Safari】
 > 
-> 3. 访问 [iOS证书下载](chls.pro/ssl)，下载证书，退出 【Safari】
+> 3. 访问 [Charles证书下载](chls.pro/ssl)，下载证书
 > 
 > 4. 打开 【设置】
 > 
@@ -126,7 +126,39 @@
 > 
 > 6. 勾选 【Charles】证书
 
-## 2.4 android 配置
+## 2.4 android 配置（以小米为例）
+
+### 2.4.1 获取Charles代理地址
+
+> 1. 打开【Charles】
+> 
+> 2. 导航栏点击 【Help-Local IP Address】，查看电脑IP地址以及Charles端口
+
+### 2.3.2 android使用Charles代理
+
+> 1. 确保【Charles】与【android】处于同一局域网下
+> 
+> 2. 打开【android】移动端
+> 
+> 3. 点击【设置-WiFi】
+> 
+> 4. 选择使用的局域网，进入局域网配置
+> 
+> 5. 点击【配置代理】
+> 
+> 6. 选择【手动】，输入Charles代理地址对应的服务器与端口
+> 
+> 7. 点击 【存储】
+
+### 2.3.3 安装Charles证书
+
+> 1. 打开【android】移动端
+> 
+> 2. 打开 【浏览器】
+> 
+> 3. 访问 [Charles证书下载](chls.pro/ssl)，下载证书（格式需为【.crt】）
+> 
+> 4. 打开 【设置】，安装下载的【Charles】证书
 
 # 3 常见问题
 
@@ -146,4 +178,8 @@
 > 
 > 6. 保存重启【Charles】
 
-# 3 使用
+# 4 使用
+
+## 4.1 限流（Throttle）
+
+## 4.2 断点(Brekingpoint)
