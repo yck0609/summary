@@ -2,8 +2,6 @@
 
 ## HTML5 的新特性
 
-[参考链接](https://www.cnblogs.com/ainyi/p/9777841.html)
-
 1. 语义化标签:header、footer、section、nav、aside、article
 2. 增强型表单：input的多个type(color, date, datetime, email, month, number, range, search, tel, time, url, week)
 3. 新增表单元素：datalist、keygen、output

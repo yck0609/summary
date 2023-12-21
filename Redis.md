@@ -719,9 +719,6 @@ length 属性记录了 contents 数组的大小。
 SET key value [EX seconds] [PX milliseconds] [NX|XX]
 ```
 
-
-
-
 - `EX seconds` ： 将键的过期时间设置为 `seconds` 秒，清除该键原有的生存时间（TTL） 
 - `PX milliseconds` ： 将键的过期时间设置为 `milliseconds` 毫秒
 - `NX` ： 键不存在时对键进行设置操作，否则返回空批量回复nil（NULL Bulk Reply）

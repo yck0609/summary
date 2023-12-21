@@ -1,6 +1,6 @@
 <!-- /TOC -->
 
-### 简要介绍一下Elasticsearch？
+### Elasticsearch
 
 Elasticsearch 是一个分布式、RESTful 风格的搜索和数据分析引擎，能够解决不断涌现出的各种用例。作为 Elastic Stack 的核心，它集中存储您的数据，帮助您发现意料之中以及意料之外的情况。
 
@@ -12,8 +12,6 @@ ElasticSearch 是基于Lucene的搜索服务器。它提供了一个分布式多
 - 分布式的实时分析搜索引擎，海量数据下近实时秒级响应。
 - 简单的restful api，天生的兼容多语言开发。
 - 易扩展，处理PB级结构化或非结构化数据。
-
-### 什么是Elasticsearch？
 
 Elasticsearch 是一个基于 Lucene 的搜索引擎。它提供了具有 HTTP Web 界面和无架构 JSON 文档的分布式，多租户能力的全文搜索引擎。
 Elasticsearch 是用 Java 开发的，根据 Apache 许可条款作为开源发布。
