@@ -21,5 +21,3 @@
 下载链接 ： [ IntelliJ IDEA ](https://www.jetbrains.com.cn/idea/download/?section=windows)
 
 安装教程 ：
-
-
