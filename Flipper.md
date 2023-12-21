@@ -1,12 +1,14 @@
-# Charles
+# Flipper
 
-> charles是一款网络代理工具，主要用于监控计算机与互联网之间的数据通信。它允许用户查看计算机与互联网之间通过HTTP和HTTPS发送的数据，提供了重发请求、修改请求和响应等功能，这使得它成为开发人员、测试人员和网络管理员常用的工具之一
+> Flipper 是一个用于在模拟器/模拟器或物理设备上调试 React Native 项目的平台工具。 它支持在 Android 和 iOS 上运行的项目，并可作为 macOS、Windows 和 Linux 上的桌面应用使用。
+> 
+> 它提供了各种功能，例如设备日志查看器、交互式原生布局检查器、网络检查器、本地数据库检查器、崩溃报告器等。 你可以在 Flipper 桌面应用中添加更多可用插件。
 
 # 1 安装使用教程
 
 ## 1.1 下载安装
 
-下载链接 ：https://github.com/facebook/flipper#running-from-source
+下载链接 ：https://fbflipper.com/
 
 ## 1.2 破解
 
