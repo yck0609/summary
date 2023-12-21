@@ -14,7 +14,7 @@
 
 > 1. 在线破解链接 ：[Charles破解工具](https://www.zzzmode.com/mytools/charles/)
 > 
-> 2. 破解教程 ：输入RegisterName，点击生成注册码。打开Charles输入RegisterName以及注册码
+> 2. 破解教程 ：输入自定义的【RegisterName】，点击生成注册码。打开Charles输入设置的【RegisterName】以及对应的注册码
 
 ## 1.3 可能的报错信息及解决方法
 
