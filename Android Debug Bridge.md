@@ -6,7 +6,7 @@
 
 ## 1.1 下载
 
-下载链接 ：https://adbdownload.com/，选择对应系统的版本
+下载链接 ：[ADB下载]([https://adbdownload.com/](https://adbdownload.com/))，选择对应系统的版本
 
 ## 1.2 安装
 
