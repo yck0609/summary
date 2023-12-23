@@ -1,5 +1,51 @@
 # 1 RabbitMQ
 
+## 1.1 安装
+
+### 1.1.1 下载
+
+下载链接 ：[Releases · rabbitmq/rabbitmq-server · GitHub](https://github.com/rabbitmq/rabbitmq-server/releases/)
+
+### 1.1.2 安装
+
+选择安装路径，使用默认安装配置
+
+## 1.2 配置
+
+配置教程 ：[windows下载与安装RabbitMQ](https://blog.csdn.net/gloamer/article/details/120130836)
+
+### 1.2.1 配置环境变量
+
+> 1. 打开 windows 【高级系统设置】
+> 
+> 2. 点击【环境变量】，在【系统变量】窗口下
+> 
+> 3. 新建变量，变量名为 【RABBITMQ_SERVER】，变量值为Erlang安装路径
+> 
+> 4. 双击 【path】变量，点击【新建】，变量值为 【%RABBITMQ_SERVER%\sbin】
+
+### 1.2.2 激活可视化插件
+
+> 1. 进入RabbitMQ安装位置下的sbin目录
+> 
+> 2. 在目录上输入cmd
+> 
+> 3. 在命令行窗口中执行命令【rabbitmq-plugins.bat enable rabbitmq_management】
+
+## 1.3 使用
+
+### 1.3.1 检查rabbitmq运行环境是否正常
+
+> 命令行窗口输入 【rabbitmqctl status】，无报错信息则正常
+
+### 1.3.2 使用可视化插件访问rabbitmq
+
+> - 访问地址 ：[rabbitmq](http://localhost:15672)
+> 
+> - 账号 ：guest
+> 
+> - 密码 ：guest
+
 ## 消息队列
 
 MQ（Message Queue）消息队列，是 "先进先出" 的一种数据结构。
