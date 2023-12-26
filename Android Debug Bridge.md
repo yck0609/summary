@@ -1,16 +1,16 @@
 # 1 Android Debug Bridge
 
-> ADB 全称为 Android Debug Bridge，即安卓调试桥，是一个**客户端-服务器端程序**。其中客户端是用来操作的电脑，服务端是 Android 设备。ADB是android sdk里的一个工具, 用这个工具可以直接操作管理android模拟器或者真实的android设备。
+> 安卓调试桥（Android Debug Bridge，ADB）是一个客户端-服务器端程序，客户端用于操作电脑，服务端为被调试的 Android 设备
 
 ## 1.1 安装
 
 ### 1.1.1 下载
 
-下载链接 ：[ADB下载](https://adbdownload.com/)，选择对应系统的版本
+> 下载链接 ：[ADB下载](https://adbdownload.com/)，选择对应系统的版本
 
 ### 1.1.2 安装
 
-将压缩包解压即可，无需安装
+> 将压缩包解压即可，无需安装
 
 ## 1.2 配置
 
